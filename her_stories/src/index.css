@@ -1,1 +1,13 @@
-@import 'tailwindcss'
+@import 'tailwindcss';
+
+@theme{
+    --color-deep-red-500: oklch(0.4427 0.1321 26.37);
+    --color-dusty-rose-500: oklch(0.7737 0.0777 20.99);
+    --color-dusty-rose-400: oklch(0.8472 0.0313 20.99);
+    --color-deep-teal-500: oklch(0.3788 0.0228 196.23);
+    --color-vista-white-500: oklch(0.9822 0.0043 17.23);
+    --color-vista-white-400: oklch(0.9352 0.0225 57.18);
+    --color-blackish-500: oklch(0.1984 0.0091 196.44);
+    --color-soft-rose-500: oklch(0.9249 0.0287 17.68);
+
+}
